@@ -243,8 +243,6 @@ nav a:hover::after {
     display: block;
 
     background: #f5f2e8;
-
-    padding: 10px;
 }
 
 .produto-info {
